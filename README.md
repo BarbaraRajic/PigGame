@@ -14,16 +14,14 @@ Fun game with dice.
 
 ### Screenshots
 
-Play with one or two dice
-<p aligin="center" width="100%">
-    <img width="50%" src"/img/Roll1.png">
-    <img width="50%" src"/img/Roll2.png">
-</p>
+Play with one...
+![Roll1](/img/Roll1.png)
+
+...or two dice
+![Roll2](/img/Roll2.png)
 
 The end
-<p aligin="center" width="100%">
-    <img width="100%" src"/img/Winner.png">
-</p>
+![Winner](/img/Winner.png)
 
 
 ### Development
